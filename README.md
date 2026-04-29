@@ -26,7 +26,7 @@ I explored several model families:
 neural-operator-workload-pde/
 ├── README.md
 ├── requirements.txt
-├── notebooks/
+├── notebook/
 │   ├── fno_physics_noisydata.ipynb
 │   └── deeponet_baseline.ipynb
 ├── report/
