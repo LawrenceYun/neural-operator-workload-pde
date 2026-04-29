@@ -29,6 +29,4 @@ neural-operator-workload-pde/
 ├── notebook/
 │   ├── fno_physics_noisydata.ipynb
 │   └── deeponet_baseline.ipynb
-├── report/
-│   ├── final_report.pdf
-│   └── figures/
+
